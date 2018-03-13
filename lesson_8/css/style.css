@@ -1,0 +1,25 @@
+.box{
+	background-color: #5ba75d;
+	color: #fff;
+	border: 2px solid blue;
+}
+
+.header{
+	font-size: 36px;
+	text-align: center;
+	padding: 140px 12px;
+	text-transform: uppercase;
+}
+
+.i-mg{
+	height: 140px;
+	text-align: center;
+}
+.i{
+	text-align:center;
+}
+.bl{
+	margin: 30px 0px;
+	font-size: 18px;
+}
+
