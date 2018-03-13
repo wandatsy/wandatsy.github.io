@@ -1,2 +1,2 @@
-# wandatsy.github.io
-stock
+# wandatsy
+STOCK
