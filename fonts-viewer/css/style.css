@@ -1,0 +1,36 @@
+/*@font-face{
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Lobster', cursive;font-family: 'Lobster', cursive;
+}*/
+
+.text-box{
+	font-family: 'Open Sans', 'Lato', 'Lobster', sans-serif;
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.Mina {
+	font-family: 'Mina', sans-serif;
+}
+.Open {
+	font-family: 'Open Sans', sans-serif;
+	
+}
+.Lato {
+	font-family: 'Lato', sans-serif;
+}
+.Lobster {
+	font-family: 'Lobster', cursive;font-family: 'Lobster', cursive;
+}
+.fonts {
+	/*font-family: 'Lobster', cursive;*/
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
