@@ -1,0 +1,62 @@
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	transition: all 0.5s;
+	margin-bottom: 50px;
+}
+.box:hover{
+	background-color: black;
+
+}
+
+.link{
+	display: block;
+	width: 180px;
+	text-decoration: none;
+	text-align: center;
+}
+.link:hover{
+	/*text-decoration: underline;*/
+}
+.link:active{
+	color: green;
+}
+.link:visited{
+	/*color: yellow;*/
+}
+.link::before{
+	content:'';
+	display: block;
+	width: 100%;
+	height: 1px;
+	transform-origin: 100%;
+	transform: scaleX(0);
+	background-color: red;
+	transition: all 0.2s;
+}
+.link::after{
+	content:'';
+	display: block;
+	width: 100%;
+	height: 1px;
+	transform-origin: 0%;
+	transform: scaleX(0);
+	background-color: red;
+	transition: all 0.2s;
+}
+.link:hover::before{
+	transform: scaleX(1);
+}
+.link:hover::after{
+	transform: scaleX(1);
+}
+
+.input:focus{
+	outline: none;
+	border: 1px solid green;
+	box-shadow: 1px 1px 10px rgb(0,0,0,0.4);
+}
+li:nth-child(odd){
+	background-color: green;
+}
