@@ -14,3 +14,7 @@ STOCK
 [Урок 13](https://wandatsy.github.io/lesson_13/ "к уроку")
 
 [fonts-viewer](https://wandatsy.github.io/fonts-viewer/ "к уроку")
+
+[Урок 15](https://wandatsy.github.io/lesson_15/ "к уроку")
+
+[Урок 15_dz](https://wandatsy.github.io/lesson_15_dz/ "к уроку")
