@@ -18,3 +18,5 @@ STOCK
 [Урок 15](https://wandatsy.github.io/lesson_15/ "к уроку")
 
 [Урок 15_dz](https://wandatsy.github.io/lesson_15_dz/ "к уроку")
+
+[Урок 16](https://wandatsy.github.io/lesson_16/ "к уроку")
